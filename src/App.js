@@ -1,11 +1,15 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Header from './components/Header';
 import Main from './components/Main';
+import Footer from './components/Footer';
 
 const App = () => (
   <div>
     <Header />
-    <Main />
+    <div className="container">
+      <Main />
+    </div>
+    <Footer />
   </div>
 );
 
