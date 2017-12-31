@@ -14,7 +14,16 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "flux": "^3.1.3",
+    "lodash": "^4.17.4",
     "react-router": "^4.2.0",
-    "react-router-dom": "^4.2.2"
+    "react-router-dom": "^4.2.2",
+    "reactify": "^1.1.1",
+    "reflux": "^6.4.1",
+    "serve-favicon": "^2.4.5",
+    "superagent": "^3.8.2",
+    "uglify-js": "^3.3.4",
+    "uglifyjs": "^2.4.11",
+    "watchify": "^3.9.0"
   }
 }
